@@ -1,4 +1,4 @@
-// Pure Function + side effects
+// Pure Function + side effects +Immutability
 
 // Higher order Function
 
@@ -7,3 +7,8 @@
 // Callback Function
 
 // IIFE
+
+/**
+ * functional statement can't be use everywhere
+ * functional expression can be use everywhere
+ */
