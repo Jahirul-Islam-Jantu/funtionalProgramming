@@ -10,3 +10,7 @@
 (function callMyName (name){
     console.log(name)
 })('Jahir')
+
+// Fat arrow Function IIFE
+// Structure
+(()=>{console.log('test');})()
